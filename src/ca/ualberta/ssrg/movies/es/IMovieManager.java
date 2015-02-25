@@ -9,4 +9,5 @@ public interface IMovieManager {
 	public Movie getMovie(int id);
 	public void addMovie(Movie movie);
 	public void deleteMovie(int id);
+
 }
